@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Info</string>
+
+    <string name="MyBasicInfo">
+
+      <br>
+    Name: Abdulsalam Sultan </br>
+        <br>
+    Slack Username: salamsultan </br>
+        <br>
+    Email: salamsultan09@gmail.com </br>
+        <br>
+    Tracks: Backend, Mobile </br>
+    </string>
+</resources>
